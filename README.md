@@ -153,6 +153,54 @@ Diagramas :
 ![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%209.png)
 
 
+Desarrollo :
+
+
+
+
+Aportaciones:
+
+
+
+
+Conclusiones:
+
+*  El teorema de superposicion es viable tanto para el analisis y resolucion en circuitos en cd como en ca.
+
+*  Para cualquier circuito en ca el teorema de Thevenin proporciona una reduccion eficaz para la resolucion de  cualquier circuito que se presente y consta  de dos partes solamente  : voltaje equivalente y impedancia equivalente
+
+*  Al igual que Thevenin el terema de Norton proporciona un método para reducir cualquier circuito de ca a una forma equivalente
+compuesta , la diferencia es que  forma una fuente de corriente equivalente dispuesta en paralelo con una impedancia equivalente.
+
+*  Se transfiere potencia máxima a una carga cuando la impedancia de carga es el complejo conjugado de
+la impedancia del circuito
+
+Anexos
+
+Link del video
+
+
+
+Link del articulo
+
+
+Bibliografia 
+
+Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado : 17/02/2021. Cap 19 , Pag: 809-841
+
+
+
+TRANSFERENCIA DE POTENCIA MÁXIMA EN CIRCUITOS AC. (n.d.). Retrieved February 17, 2021, from https://www.tina.com/maximum-power-transfer-in-ac-circuits/
+
+
+
+▷ Teorema de Thévenin y Norton【 Definición y Ejemplos 】. (n.d.). Retrieved February 17, 2021, from https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-thevenin-y-norton/#corriente-directa-dc1
+
+
+Teorema de Thévenin - EcuRed. (n.d.). Retrieved February 17, 2021, from https://www.ecured.cu/Teorema_de_Thévenin
+
+
+
 
 
 
