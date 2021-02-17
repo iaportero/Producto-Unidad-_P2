@@ -55,27 +55,102 @@ IL,
 
 ![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%202.png)
 
+Voltaje equivalente de Thevenin (Vth)
+
+El voltaje equivalente de Thevenin se define como el voltaje de circuito abierto entre dos
+terminales especificadas en un circuito.
+
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%203.png)
+
+
+Impedancia equivalente de Thevenin (Zth)
+
+La impedancia equivalente de Thevenin es la impedancia total que aparece entre dos terminales
+especificadas en un circuito dado con todas las fuentes siendo reemplazadas por
+sus impedancias internas.
 
 
 
+Pasos para aplicar el teorema de thevenin en ca  :
+
+1.  Abrir las dos terminales entre las que se desea determinar el circuito de Thevenin. Esto
+se logra retirando el componente desde donde se va a ver el circuito.
+
+2.  Determinar el voltaje entre las dos terminales abiertas.
+
+3.  Determinar la impedancia vista desde las dos terminales abiertas con las fuentes de
+voltaje ideales habiendo sido reemplazadas por cortos y las fuentes de corriente ideales
+reemplazadas con aberturas (ajustadas a cero).
+
+4.  Conectar Vth y Zth en serie para producir el circuito equivalente de Thevenin completo.
+
+![](https://mielectronicafacil.com/wp-content/uploads/2019/11/Thevenin-AC.png)
 
 
+*  Teorema de Norton en ca
 
+En términos prácticos, este teorema establece que se puede sustituir el circuito por una fuente de corriente y una impedancia o resistencia conectados en paralelo.
 
+El teorema de Norton muestra cómo determinar In y Zn. Una vez que se determinan, simplemente
+se les conecta en paralelo para obtener el circuito equivalente de Norton
 
+![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%204.png)
 
+Fuente de corriente equivalente de Norton (In)
 
+La corriente equivalente de Norton se define como la corriente que aparece al poner en
+cortocircuito las dos terminales específicas en un circuito dado.
 
+![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%205.png)
 
+Impedancia equivalente de Norton (Zn)
 
+Zn se define igual que Zth: es la impedancia total que aparece entre dos terminales específicas de
+un circuito dado visto desde las terminales abiertas y con todas las fuentes reemplazadas por sus
+impedancias internas.
 
+Pasos para aplicar el teorema de Norton en ca 
 
+1.  Reemplazar la carga conectada a las dos terminales entre las cuales se va a determinar
+el circuito de Norton con un corto.
 
+2.  Determinar la corriente a través del corto. Ésta es In.
 
+3.  Abrir las terminales y determinar la impedancia entre las dos terminales abiertas y
+con todas las fuentes reemplazadas por sus impedancias internas. Ésta es Zn.
 
+4.  Conectar In y Zn en paralelo.
 
+![](https://mielectronicafacil.com/wp-content/uploads/2019/11/Norton-AC.png)
 
+* Teorema de la maxima transferencia de potencia
 
+Se transfiere potencia máxima a una carga conectada a un circuito cuando la impedancia
+total es el complejo conjugado de la impedancia de salida del circuito.
+
+Se considera lo siguiente :
+
+1.  El complejo conjugado  y viceversa, donde las resistencias son iguales
+en magnitud y las reactancias también iguales en magnitud pero de signo opuesto.
+
+2.  La impedancia  es efectivamente la impedancia equivalente de Thevenin vista desde las terminales
+de salida.
+
+3.  Cuando ZL es el complejo conjugado de Zsal, se transfiere potencia máxima desde el
+circuito hasta la carga con un factor de potencia de 1.
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%206.png)
+
+Expresado en formula se tiene :
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%207.png)
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%208.png)
+
+Diagramas :
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Imagenes/i%209.png)
 
 
 
