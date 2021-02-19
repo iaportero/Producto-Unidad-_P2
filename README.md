@@ -183,6 +183,7 @@ Link del video
 
 Link del articulo
 
+https://github.com/iaportero/Trabajo-de-Investigacion_P2/blob/main/Articulo/articulo3.pdf
 
 Bibliografia 
 
