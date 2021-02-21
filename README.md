@@ -1,4 +1,4 @@
-# Trabajo-de-Investigacion_P2
+# Producto Unidad_P2
 Integrantes: Bryan Santiago Torres Reyes , Roger Steveen Armas Simbaña , Israel Alejandro Portero Cazares
 
 Objetivos:
