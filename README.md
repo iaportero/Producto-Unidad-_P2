@@ -160,7 +160,7 @@ https://github.com/iaportero/Trabajo-de-Investigacion_P2/tree/main/Codigo%20Fuen
 
 Aportaciones:
 
-
+https://github.com/iaportero/Producto-Unidad-_P2/tree/main/Aportaciones
 
 
 Conclusiones:
@@ -179,7 +179,11 @@ Anexos
 
 Link del video
 
+https://youtu.be/x57mzKSt4O4
 
+https://youtu.be/fiuYwOnwxCY
+
+https://youtu.be/LFWgB_pfHeY
 
 Link del articulo
 
